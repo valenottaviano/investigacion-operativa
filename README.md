@@ -22,10 +22,8 @@ This repository provides a curated set of practices that cover key operational r
 
 Here is a list of the available practices in this repository:
 
-1. Practice 1: Linear Programming in Project Scheduling
-2. Practice 2: Inventory Optimization using EOQ Model
-3. Practice 3: Decision Analysis for Feature Prioritization
-4. Practice 4: Network Flow Optimization in Software Deployment
+1. Practice 1: Linear Programming
+
 
 Each practice directory contains its own README file with detailed instructions.
 
